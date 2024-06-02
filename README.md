@@ -11,6 +11,9 @@
 ### Project Overview
 This data analysis project aims to provide insights into the sales performance of bikes, within the region of Europe, the Pacific, and the north america. By analyzing various aspects of the sales data, we seek to identify the trends and make data-driven recommendations.
 
+![bike_sales_dashboard](https://github.com/tanvirtanmoy/Bike-Sales-Analysis-in-Excel/assets/92587839/35fb0e9b-0a39-4972-8c57-3f7cd675b8e2)
+
+
 ### Data Source
 The primary data used for this data analysis is the "Bike_Sales_Dataset.xlsx" file, containing detailed information about the bike sales made by the company. 
 
